@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Academic Writing"
+    ]
+  ],
+  "legacy_uid": "6402b1a3-d14e-6074-995e-03d001c533da",
+  "instructors": {
+    "content": [
+      "034b1a16-30fd-0de1-b4f4-1909b15a761e",
+      "60b142b1-96ec-1963-da68-75b4674fb047"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "4184f92e-4530-a6b3-a595-725ce6c8c933",
+    "website": "7-02ci-experimental-biology-communications-intensive-spring-2005"
+  },
+  "course_title": "Experimental Biology - Communications Intensive",
+  "course_description": "This course is the scientific communications portion of course [7.02, Experimental Biology and Communication](https://ocw.mit.edu/courses/7-02-experimental-biology-communication-spring-2005/). Students develop their skills as writers of scientific research, skills that also contribute to the learning of the 7.02 course materials. Through in class and out of class writing exercises, students explore the genre of the research article and its components while developing an understanding of the materials covered in the 7.02 laboratory.",
+  "department_numbers": [
+    "7",
+    "10"
+  ],
+  "extra_course_numbers": "10.702CI",
+  "primary_course_number": "7.02CI",
+  "course_image_thumbnail": {
+    "content": "daf7bd57-0cdb-4f70-c963-f72a572fa68f",
+    "website": "7-02ci-experimental-biology-communications-intensive-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "e31538a3-6130-499b-a218-398a76abffb0",
+  "site_short_id": "7.02ci-spring-2005",
+  "title": "Course Metadata"
+}
